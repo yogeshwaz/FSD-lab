@@ -1,39 +1,8 @@
-#fullname{
-    font-size: large;
-}
-#phno{
-    font-size: large;
-}
-#email{
-    font-size: large;
-}
-button{
-   
-    font-size: large;
-    
-   
-   
-}
-label{
-    font-size: large;
-    font-weight: bold;
-}
-h2{
-    display:flex;
-    justify-content: center;
-
-}
 body{
-    background-color: #39FF14;
-    font-size: large;
-    display: flex;
-    align-items: center;
+    disply:flex;
     justify-content: center;
-
+    align-items: center;
+    height: 100vh;
+    background-color: #eff;
+    font-family: 'Times New Roman', Times, serif;
 }
-button{
-   
-    color: #FF69B4;
-
-}
- 
